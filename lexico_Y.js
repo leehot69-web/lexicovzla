@@ -1,0 +1,15 @@
+export const LEXICO_Y = [
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y1w.htm", title: "Yabalito, Capas de", age: "INVALIDO TERCIARIO (Mioceno) Estado Falcón Maury (1925-a, p. 168; 1925-b) se refirió a las Capas de Yabalito, con Arca patricia, expuestas unos 20 kilómetros al sureste de Urumaco, Estado Falcón. Previamente Guppy (1913) había identificado 10 especies, entre ellas Arca patricia, procedentes de Yabalito. Liddle mencionó afloramientos de calizas margosas-arenosas al norte de Yabalito que atribuyó originalmente (1928) a la Formación Damsite después (1946) a la Formación Caujarao. Aparentemente las capas pertenecen a la Formación Urumaco de uso actual. Véase URUMACO, Formación . Referencias Guppy, R. J. L., 1913. Observations on the geology of Martinique with note on fossils from Trinidad and Venezuela. p. 336-340, en: "Guppy Reprint", 1921. Bull. Amer. Paleont. 8(35): 149-346, de: Agr. Soc. Trin. and Tob., Proc., 13: 159-163. Liddle, R. A., 1928. The geology of Venezuela and Trinidad. J. P. MacGowan, Fort Worrh, Texas, 552 p. Liddle, R. A., 1946. The geology of Venezuela and Trinidad. 2 ed. , Paleont. Res. Inst, Ithaca, N. Y., 890 p. Maury, C. J., 1925-a. A further contribution to the paleontology of Trinidad (Miocene horizons). Bull. Amer. Paleont. , 10(42): 159-402. Maury, C. J., 1925-b. Venezuelan stratigraphy, Am. Jour. Sci. , 8th. ser, 9(53)", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y2w.htm", title: "Yabo, Miembro (Formaci�n Oficina)", age: "Edad no especificada", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y2000w.htm", title: "Yacamb�, Formaci�n", age: "Edad no especificada", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y20w.htm", title: "Yacua, Miembro (Formaci�n Cariaquito)", age: "VALIDO CRETACICO", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y21w.htm", title: "Yacurai, Conglomerado de", age: "Edad no especificada", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y3w.htm", title: "Yama, Formaci�n", age: "INVALIDO PRECAMBRICO", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y300w.htm", title: "Yaritagua, Complejo", age: "VALIDO PRE", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y30w.htm", title: "Yaritagua, Formaci�n", age: "INVALIDO PRE", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y4w.htm", title: "Yucales, Formaci�n", age: "INVALIDO TERCIARIO", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y301w.htm", title: "Yumare, Complejo de", age: "VALIDO PRECAMBRICO", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y302w.htm", title: "Yureba, Granito de", age: "Edad no especificada", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y5w.htm", title: "Yuruari, Anfibolita de", age: "INVALIDO PRECAMBRICO", description: `nan` },
+  { url: "https://labgeomucv.ing.ucv.ve/dist/Lexico/y50w.htm", title: "Yuruari, Formaci�n", age: "VALIDO PRECAMBRICO", description: `nan` },
+];
